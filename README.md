@@ -1,4 +1,4 @@
-# HackPacks ☠
+# HackPacks ☠cma
 
 Install on Ubuntu 18.04 LTS ☠
 
