@@ -9,7 +9,7 @@ or
 
 apt-get update && upgrade
 apt-get install git
-git clone https://github.com/behindTermux
+git clone https://github.com/DEFCON.git
 cd defcon
 chmod +x 755 * script.sh
 sh script.sh
