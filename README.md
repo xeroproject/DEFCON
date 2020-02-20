@@ -1,4 +1,4 @@
-# HackPacks ☠cma
+# HackPacks ☠
 
 Install on Ubuntu 18.04 LTS ☠
 
@@ -18,6 +18,8 @@ git clone https://github.com/DEFCON.git
 cd DEFCON
 chmod +x * script.sh
 sh script.sh
+
+By jmeneses22
 
 
 
