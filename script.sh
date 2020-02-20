@@ -23,25 +23,25 @@ figlet -f block nmap
 echo installing nmap
 apt install nmap -y
 echo installed nmap
-figlet python
+figlet -f bubble python
 apt install python -y
 echo installed python
-figlet php
+figlet -f lean php
 apt install php
 echo installed php 
-figlet python2
+figlet -f script python2
 apt install python2
 echo installed python2
-figlet python3
+figlet -f sahdow python3
 apt install python3
 echo installed python3
-figlet ruby
+figlet -f slant ruby
 apt install ruby -y
 echo installed ruby
-figlet ruby2
+figlet -f small ruby2
 apt install ruby2
 echo installed ruby2
-figlet java
+figlet smshadow java
 apt install java
 echo installed java 
 "###################"
