@@ -10,7 +10,7 @@ or
 apt-get update && upgrade
 apt-get install git
 git clone https://github.com/behindTermux
-cd Defcom
+cd defcon
 
 
 #Install on Termux ☠
