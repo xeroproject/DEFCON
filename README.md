@@ -17,7 +17,10 @@ chmod +x * script.sh
 sh script.sh
 
 
-#Install on Termux ☠
+
+
+
+Install on Termux ☠
 
 apt-get install git
 
@@ -30,7 +33,8 @@ chmod +x * script.sh
 sh script.sh
 
 
-By jmeneses22
+
+
 
 
 
