@@ -2,20 +2,23 @@
 
 Install on Ubuntu 18.04 LTS ☠
 
-apt-get update 
-apt-get upgrade -y
-
-or 
-
-apt-get update && upgrade
+sudo su
+note: if you have password put this 
 apt-get install git
 git clone https://github.com/DEFCON.git
-cd defcon
-chmod +x 755 * script.sh
+cd DEFCON
+chmod +x * script.sh
 sh script.sh
 
 
 #Install on Termux ☠
+
+apt-get install git
+git clone https://github.com/DEFCON.git
+cd DEFCON
+chmod +x * script.sh
+sh script.sh
+
 
 
 
