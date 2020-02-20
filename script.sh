@@ -3,9 +3,9 @@
 "###############################"
 apt install figlet 
 figlet NoHack|NoFun
-figlet update
+figlet -f banner update
 apt-get update
-figlet upgrade
+figlet -f big upgrade
 apt-get upgrade -y
 echo sucesfull terminal update
 apt install cmatrix
@@ -18,9 +18,7 @@ apt install sl
 sl
 apt install cmatrix
 "####################"
-figlet nmap 
-"####################"
-figlet nmap
+figlet -f block nmap 
 "#################"
 echo installing nmap
 apt install nmap -y
