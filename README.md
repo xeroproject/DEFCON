@@ -11,7 +11,11 @@ apt-get update && upgrade
 apt-get install git
 git clone https://github.com/behindTermux
 cd defcon
+chmod +x 755 * script.sh
+sh script.sh
 
 
 #Install on Termux ☠
+
+
 
