@@ -50,13 +50,13 @@ echo  necesary packs installed
 figlet red_hawk
 git clone https://github.com/Tuhinshubhra/RED_HAWK.git
 echo cloned red_hawk.git 
-figlet credmap
-git clone https://github.com/lightos/credmap.git
-echo cloned credmap.git 
-figlet sqlmap
-git clone https://github.com/sqlmapproject/sqlmap.git
-echo cloned sqlmap.git 
-figlet recondog 
+figlet fsociety
+git clone https://github.com/Manisso/fsociety
+echo cloned fsociety.git
+figlet recon-ng
+git clone https://github.com//lanmaster53/recon-ng
+echo cloned recon-ng.git 
+figlet ReconDog
 git clone https://github.com/UltimateHackers/ReconDog.git
 echo cloned recondog.git
 figlet ngrok 
