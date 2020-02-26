@@ -59,9 +59,9 @@ echo cloned recon-ng.git
 figlet ReconDog
 git clone https://github.com/UltimateHackers/ReconDog.git
 echo cloned recondog.git
-figlet ngrok 
-git clone https://github.com/inconshreveable/ngrok.git
-echo cloned ngrok.git
+figlet routersploit
+git clone https://github.com/threat9/routersploit
+echo cloned routersploit.git
 figlet tor
 apt install tor
 echo installed tor
