@@ -8,7 +8,7 @@ note: if you have password put this
 
 apt-get install git
 
-git clone https://github.com/DEFCON.git
+git clone https://github.com/jmeneses22/DEFCON
 
 cd DEFCON
 
@@ -23,8 +23,7 @@ sh script.sh
 Install on Termux ☠
 
 apt-get install git
-
-git clone https://github.com/DEFCON.git
+git clone https://github.com/jmeneses22/DEFCON
 
 cd DEFCON
 
