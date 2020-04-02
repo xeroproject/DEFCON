@@ -1,8 +1,7 @@
+apt-get install figlet 
 "###############################"
- echo Welcome Hackers
+ figlet Welcome Hackers 
 "###############################"
-apt install figlet 
-figlet NoHack|NoFun
 figlet -f banner update
 apt-get update
 figlet -f big upgrade
@@ -80,5 +79,5 @@ cowsay type-cmatrix
 apt-get install cmatrix
 figlet NOHACK|NOFUN
 "###########################"
-figlet "Happy Hacking"
+figlet "NO H4CK|NO FUN"
 "###########################"
