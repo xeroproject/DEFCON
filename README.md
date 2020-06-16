@@ -6,15 +6,15 @@ sudo su
 
 note: if you have password put this 
 
-apt-get install git
+apt-get install git /*install pack to clone github files*/
 
-git clone https://github.com/jmeneses22/DEFCON
+git clone https://github.com/jmeneses22/DEFCON /*cloned the files*/
 
 cd DEFCON
 
 chmod +x * script.sh
 
-sh script.sh
+sh script.sh /*Execute the script to install the packges*/
 
 
 
@@ -22,15 +22,15 @@ sh script.sh
 
 Install on Termux ☠
 
-apt-get install git
-git clone https://github.com/jmeneses22/DEFCON
+apt-get install git  /*install pack to clone github files*/
+
+git clone https://github.com/jmeneses22/DEFCON  /*cloned the files*/
 
 cd DEFCON
 
 chmod +x * script.sh
 
-sh script.sh
-
+sh script.sh  /*Execute the script to install the packges*/
 
 
 
