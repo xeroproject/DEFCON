@@ -8,7 +8,7 @@ note: if you have password put this
 
 apt-get install git /*install pack to clone github files*/
 
-git clone https://github.com/jmeneses22/DEFCON /*cloned the files*/
+git clone https://github.com/xeroproject/DEFCON /*cloned the files*/
 
 cd DEFCON
 
@@ -24,7 +24,7 @@ Install on Termux ☠
 
 apt-get install git  /*install pack to clone github files*/
 
-git clone https://github.com/jmeneses22/DEFCON  /*cloned the files*/
+git clone https://github.com/xeroproject/DEFCON  /*cloned the files*/
 
 cd DEFCON
 
