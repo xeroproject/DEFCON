@@ -1,6 +1,7 @@
 # HackPacks ☠
 
-Install on Ubuntu 18.04 LTS ☠
+
+# Install on Ubuntu 18.04 LTS ☠
 
 sudo su
 
@@ -20,7 +21,7 @@ sh script.sh /*Execute the script to install the packges*/
 
 
 
-Install on Termux ☠
+# Install on Termux ☠
 
 apt-get install git  /*install pack to clone github files*/
 
@@ -33,9 +34,15 @@ chmod +x * script.sh
 sh script.sh  /*Execute the script to install the packges*/
 
 
-#Update
+
+
+
+# Update
+
 fish /*Optional step, to a smart and user-friendly command line shell*/
+
 chmod +x * .sh
+
 sh update.sh
 
 
