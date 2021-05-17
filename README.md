@@ -33,7 +33,10 @@ chmod +x * script.sh
 sh script.sh  /*Execute the script to install the packges*/
 
 
-
+#Update
+fish /*Optional step, to a smart and user-friendly command line shell*/
+chmod +x * .sh
+sh update.sh
 
 
 
